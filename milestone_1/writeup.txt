@@ -1,0 +1,7 @@
+(For question 1) predictions_Read.csv
+Description:
+Using homework 3 as a reference, two changes were specified to improve the accuracy of the predictions. First, by improving the method of determining "return1" by cycling through mostPopular and having the limiting condition be "count > 1.5 * totalRead/2" as opposed to the original totalRead/2 in baseline.
+Secondly, within predictions rating computation, we utilize the condition "maxSim > 0.013 or b in return1 or len(ratingsPerItem[b]) > 40:" to restrict predictions of 1 (read) -- making the predictions more strict. The idea is that by using similarity and mostPopular books, we can gain a pretty good accuracy score. And with a bit of tinkering we find that "len(ratingsPerItem[b]) > 40" to give a slight increase in accuracy as well.
+
+(for question 2) predictions_category.csv
+Description: The idea is to modify our dictionary size to a larger degree, the larger, the more accurate our predictions. And the model we use will also change this accuracy: by using C=10, we can achieve a pretty good accuracy level, in addition, to the larger dictionary size.

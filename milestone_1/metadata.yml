@@ -1,0 +1,12 @@
+---
+:id: 148912242
+:submitters:
+- :name: Albert Lin
+  :email: all026@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-15 08:00:13.523370000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-15 00:00:13.523370000 Z
+:status: processed
+:score: 18.5
