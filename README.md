@@ -6,7 +6,8 @@ Recommender systems included predicting book rating reviews, top beer choices, a
 Feel free to look through any of the project folders. 
 In particular, I would advise looking at the final research report pdf. 
 This report provides a good overview of the various concepts accumulated and applied throughout the duration of the course projects, it is also a quick and interesting read.
-
+ [[Full Research Report](https://github.com/cubinCheese/recommender-systems-projects/blob/main/Research-Report-RecSys.pdf)]
+ 
 # Some Models/strategies: 
 - TF-IDF                     -> predicting based on the historical appearance of terms
 - Cosine similarity          -> similarities between items/users based on their interactions
@@ -24,5 +25,5 @@ This report provides a good overview of the various concepts accumulated and app
 - Python, JSON
 - Libraries: Nltk, Sklearn, Numpy, Pandas, Matplotlib, Scipy
 
-# [Preview of Research Report](https://github.com/cubinCheese/recommender-systems-projects/blob/main/Research-Report-RecSys.pdf)
+# Preview Research Report
 ![Capture](https://github.com/cubinCheese/recommender-systems-projects/assets/93562548/fe41d9bd-84e9-4d1b-91d3-128ad1868ced)
