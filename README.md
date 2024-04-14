@@ -24,5 +24,5 @@ This report provides a good overview of the various concepts accumulated and app
 - Python, JSON
 - Libraries: Nltk, Sklearn, Numpy, Pandas, Matplotlib, Scipy
 
-# Preview of Research Report
+# [Preview of Research Report](https://github.com/cubinCheese/recommender-systems-projects/blob/main/Research-Report-RecSys.pdf)
 ![Capture](https://github.com/cubinCheese/recommender-systems-projects/assets/93562548/fe41d9bd-84e9-4d1b-91d3-128ad1868ced)
