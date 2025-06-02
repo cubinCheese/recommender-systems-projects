@@ -1,3 +1,5 @@
+<h1 align="center">Books📚, Beers🍻, and Recommender Systems!💡 </h1>
+
 # Overview
 Series of projects that involved the implementation/application of various strategies in building recommender systems.
 Recommender systems included predicting book rating reviews, top beer choices, and beer ratings according to ABV.
